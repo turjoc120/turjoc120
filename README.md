@@ -2,7 +2,7 @@
 
   
 
-I'm Turjo, a self-taught dev. I have a passion for problem-solving, Currently studying core CS fundamentals. ⚙️
+I'm Turjo, a self-taught dev. I love problem-solving, Currently studying core CS fundamentals. ⚙️
 
   
 
