@@ -1,4 +1,3 @@
-
 # HOLA! 👋
 
   
@@ -14,11 +13,8 @@ I'm proficient in JavaScript and C++, I love to work with web technologies, I li
 ### 💡 Skills:
 
 - Languages: C++, JavaScript
-
 - Frameworks: ReactJS, ExpressJS, NodeJS
-
 - Databases: MongoDB, Firebase
-
 - Other: Redux, Git, HTML5, CSS3, Material-UI, Tailwind CSS, SASS, Stripe, Heroku
 
 
