@@ -2,7 +2,7 @@
 
   
 
-I'm Turjo, a self-taught dev. I love problem-solving, Currently studying core CS fundamentals. ⚙️
+I'm Turjo, a self-taught dev. I love problem-solving, Currently working with GO. ⚙️
 
   
 
@@ -14,7 +14,7 @@ I have a passion for learning and sharing my knowledge with others, I love to wo
 -   📰 Reading, writing & watching Tech Stuff whenever possible.
 -   🍕 Tech Events & Hackathons.
 
-When not coding, I'm probably reading books watching documentary on philosophy, history, etc to feed my curiosity beast. 😴
+When not coding, I'm probably reading books or watching documentary on philosophy, history, etc to feed my curiosity beast. 😴
 
   
 Let's code some awesomeness! ✨
